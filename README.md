@@ -22,8 +22,7 @@ Using Github API we are collecting all repositories and then parsing these repos
 We had only a difference in execution time. It took a lot of time to execute(only collecting repositories part in Java). We believe this is because of the limited computational resources we have. 
 
 ###  Output delta: 
-We were able to collect 3757 repositories. Dues to this we got different dependencies when compared to what we have in thesis.
-
+We were able to collect 3757 repositories. Dues to this we got different dependencies(can be visualized in visualization part) when compared to what we have in thesis.
 # Implementation of Replication: 
 
 ### Software
