@@ -322,10 +322,10 @@ public class RepositoriesPicker {
             InputStream response = connection.getInputStream();
             return JsonParser.parseReader(new InputStreamReader(response));
         } catch (Exception e) {
-//            log.info("--" + e.getMessage());
-//            log.info("--Sleeping...");
-//            Thread.sleep(60001);
-//            log.info("--Resuming.");
+            log.info("--" + e.getMessage());
+            log.info("--Sleeping...");
+            Thread.sleep(60001);
+            log.info("--Resuming.");
             return request(url);
         }
     }
