@@ -1,0 +1,73 @@
+repositoryName1,repositoryName2,intersection,similarity
+apache/apex-malhar,apache/flink,[apache],1.0
+apache/apex-core,apache/apex-malhar,[apache],1.0
+DTStack/flinkx,ops4j/org.ops4j.pax.web,[apache],1.0
+apache/flink,apache/pinot,[apache],1.0
+apache/apex-core,apache/pinot,[apache],1.0
+AddstarMC/Prism-Bukkit,bergerhealer/BKCommonLib,[platform],1.0
+DiscordSRV/DiscordSRV,xwiki/xwiki-platform,[platform],1.0
+codice/ddf,spotify/zoltar,[api],1.0
+DTStack/flinkx,apache/apex-malhar,[apache],1.0
+JorelAli/CommandAPI,PGMDev/PGM,[platform],1.0
+bergerhealer/BKCommonLib,mcMMO-Dev/mcMMO,[platform],1.0
+JorelAli/CommandAPI,xwiki/xwiki-platform,[platform],1.0
+apache/flink,trinodb/trino,[apache],1.0
+AddstarMC/Prism-Bukkit,xwiki/xwiki-platform,[platform],1.0
+apache/pinot,ops4j/org.ops4j.pax.web,[apache],1.0
+GoogleCloudPlatform/java-docs-samples,database-rider/database-rider,"[dependency-injection, io]",1.0
+ModeShape/modeshape,wildfly/wildfly-core,"[framework, testing]",1.0
+apache/apex-core,trinodb/trino,[apache],1.0
+codice/ddf,sakaiproject/sakai,[api],1.0
+JorelAli/CommandAPI,bergerhealer/BKCommonLib,[platform],1.0
+DiscordSRV/DiscordSRV,JorelAli/CommandAPI,[platform],1.0
+BetonQuest/BetonQuest,mcMMO-Dev/mcMMO,[platform],1.0
+INRIA/spoon,pac4j/pac4j,[io],1.0
+apache/apex-core,apache/flink,[apache],1.0
+JorelAli/CommandAPI,mcMMO-Dev/mcMMO,[platform],1.0
+BetonQuest/BetonQuest,JorelAli/CommandAPI,[platform],1.0
+BetonQuest/BetonQuest,bergerhealer/BKCommonLib,[platform],1.0
+OneBusAway/onebusaway-application-modules,apache/ignite,"[google, memcached, spring]",1.0
+PGMDev/PGM,xwiki/xwiki-platform,[platform],1.0
+keycloak/keycloak,wildfly/wildfly-core,"[framework, testing]",1.0
+database-rider/database-rider,oracle/helidon,"[dependency-injection, io]",1.0
+AddstarMC/Prism-Bukkit,PGMDev/PGM,[platform],1.0
+resteasy/resteasy,weld/core,"[container, embedded, jboss, jetty, server, webserver]",1.0
+bergerhealer/BKCommonLib,xwiki/xwiki-platform,[platform],1.0
+alibaba/DataX,gridgain/gridgain-old,"[google, memcached, spring]",1.0
+BetonQuest/BetonQuest,xwiki/xwiki-platform,[platform],1.0
+apache/archiva,goldmansachs/obevo,"[cli, command-line, google, parser]",1.0
+DTStack/flinkx,apache/apex-core,[apache],1.0
+mcMMO-Dev/mcMMO,xwiki/xwiki-platform,[platform],1.0
+DiscordSRV/DiscordSRV,mcMMO-Dev/mcMMO,[platform],1.0
+camelinaction/camelinaction2,weld/core,"[container, embedded, jboss, jetty, server, webserver]",1.0
+HotswapProjects/HotswapAgent,apache/deltaspike,"[apache, api, beans, module]",1.0
+ModeShape/modeshape,keycloak/keycloak,"[framework, testing]",1.0
+BetonQuest/BetonQuest,DiscordSRV/DiscordSRV,[platform],1.0
+AddstarMC/Prism-Bukkit,mcMMO-Dev/mcMMO,[platform],1.0
+DTStack/flinkx,trinodb/trino,[apache],1.0
+alibaba/DataX,apache/ignite,"[google, memcached, spring]",1.0
+AddstarMC/Prism-Bukkit,JorelAli/CommandAPI,[platform],1.0
+AddstarMC/Prism-Bukkit,DiscordSRV/DiscordSRV,[platform],1.0
+DiscordSRV/DiscordSRV,PGMDev/PGM,[platform],1.0
+apache/apex-core,ops4j/org.ops4j.pax.web,[apache],1.0
+apache/apex-malhar,ops4j/org.ops4j.pax.web,[apache],1.0
+apache/pinot,trinodb/trino,[apache],1.0
+AddstarMC/Prism-Bukkit,BetonQuest/BetonQuest,[platform],1.0
+OneBusAway/onebusaway-application-modules,gridgain/gridgain-old,"[google, memcached, spring]",1.0
+apache/ignite,gridgain/gridgain-old,"[google, memcached, spring]",1.0
+apache/apex-malhar,trinodb/trino,[apache],1.0
+DTStack/flinkx,apache/pinot,[apache],1.0
+DTStack/flinkx,apache/flink,[apache],1.0
+BetonQuest/BetonQuest,PGMDev/PGM,[platform],1.0
+GoogleCloudPlatform/java-docs-samples,oracle/helidon,"[dependency-injection, io]",1.0
+DiscordSRV/DiscordSRV,bergerhealer/BKCommonLib,[platform],1.0
+wso2/micro-integrator,wso2/product-ei,"[api, scheduling]",1.0
+sakaiproject/sakai,spotify/zoltar,[api],1.0
+apache/flink,ops4j/org.ops4j.pax.web,[apache],1.0
+hantsy/spring-reactive-sample,jhipster/jhipster,"[data, database, graph, neo4j, spring, starter]",1.0
+ops4j/org.ops4j.pax.web,trinodb/trino,[apache],1.0
+PGMDev/PGM,mcMMO-Dev/mcMMO,[platform],1.0
+camelinaction/camelinaction2,resteasy/resteasy,"[container, embedded, jboss, jetty, server, webserver]",1.0
+OneBusAway/onebusaway-application-modules,alibaba/DataX,"[google, memcached, spring]",1.0
+PGMDev/PGM,bergerhealer/BKCommonLib,[platform],1.0
+apache/apex-malhar,apache/pinot,[apache],1.0
